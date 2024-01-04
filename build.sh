@@ -1,4 +1,5 @@
-#!/usr/bin/env bask
+#!/usr/bin/env bash
+
 
 set -o errexit
 
